@@ -33,13 +33,14 @@ hr {
 a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
   text-decoration: none;
 }
 a:hover {
-  color: #EAF6F6;
+  color: #66BFBF;
 }
 li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.95rem;
   line-height: 2;
   /* margin-left: 100px; */
 }
@@ -90,6 +91,12 @@ li {
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+}
+.footer-link {
+  margin: 10px 20px;
+}
+.footer-link:hover {
+  color: #EAF6F6;
 }
 .copyright {
   color: #EAF6F6;
