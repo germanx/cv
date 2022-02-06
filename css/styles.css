@@ -6,8 +6,10 @@ body {
 }
 h1 {
   color: #66BFBF;
-  font-family: 'Sacramento', cursive;
-  font-size: 5.62rem;
+  font-family: 'Dancing+Script', cursive;
+  font-size: 4.5rem;
+  font-style: italic;
+  font-weight: normal;
   line-height: 2;
   margin: 0 auto;
 }
@@ -47,6 +49,9 @@ li {
 /***** class selectors *****/
 .experiance {
   text-align: center;
+}
+h3.experiance {
+  text-align: left;
 }
 .top-container {
   background-color: #E4F9F5;
