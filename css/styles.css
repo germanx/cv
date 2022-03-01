@@ -88,6 +88,9 @@ h3.experiance {
   margin-right: 50px;
   width: 25%
 }
+.skill-row h3 {
+  text-align: center;
+}
 .web-img {
   float: right;
   margin-left: 50px;
