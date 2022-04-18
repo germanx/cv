@@ -83,19 +83,30 @@ h3.experiance {
   text-align: left;
   width: 60%;
 }
+.web-img {
+  float: left;
+  margin-right: 50px;
+  width: 25%
+}
+.dapps-img {
+  float: right;
+  margin-left: 50px;
+  width: 25%
+}
 .cloud-img {
   float: left;
   margin-right: 50px;
   width: 25%
 }
-.skill-row h3 {
-  text-align: center;
-}
-.web-img {
+.database-img {
   float: right;
   margin-left: 50px;
   width: 25%
 }
+.skill-row h3 {
+  text-align: center;
+}
+
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
